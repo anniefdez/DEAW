@@ -15,6 +15,6 @@ Este repositorio es para realizar ejercicios sobre Git y GitHub, en el módulo d
 </tr>
 <tr>
 <td>Jose Luis Hans</td>
-<td><a href="aaa">Enlace a GitHub</td>
+<td><a href="https://github.com/joseluis17hans">Enlace a GitHub</td>
 </tr>
 </table>
